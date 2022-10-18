@@ -1,7 +1,7 @@
 # dayone
 
-##github study
+github study
 
-#lets learn something
+lets learn something
 
 Welcome to EC
